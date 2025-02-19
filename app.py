@@ -7,7 +7,7 @@ st.set_page_config(page_title="Calcolatrice Pari 🧮", page_icon="➗")
 st.markdown("""
 <style>
 div[data-testid="stVerticalBlock"] > div:first-child {
-    background-color: #2d2d2d;
+    background-color: #2d2d2c;
     padding: 10px;
     border-radius: 5px;
 }
